@@ -1,0 +1,25 @@
+body{ 
+    background-color:#b0dae9;
+}
+
+header{
+    background-color: cadetblue;
+}
+
+footer{
+    background-color:cadetblue;
+}
+
+img{
+   width:500px;
+   height: 200px;
+}
+
+#container1{
+   background-color: azure;
+   text-align: center;
+}
+#container2{
+   background-color: rgb(169, 180, 196);
+   text-align: right;
+}
