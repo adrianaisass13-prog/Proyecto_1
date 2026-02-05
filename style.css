@@ -1,25 +1,106 @@
 body{ 
-    background-image:url('https://depositphotos.com/es/photos/sabana-verde.html');
-}
-
-header{
-    background-color: cadetblue;
-}
-
-footer{
     background-color:cadetblue;
 }
 
+header{
+    background-color: rgb(220, 138, 97);
+    border-radius: 20px;
+}
+
+footer{
+    background-color:rgb(220, 138, 97);
+    text-align: center;
+    border-radius: 20px;
+}
+
 img{
-   width:500px;
+   width:400px;
    height: 200px;
+   border: 5cm;
+   margin-left: 3cm;
+   padding-inline-start: 3cm;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(246, 246, 212);
+    text-align: center;
+    margin-top: auto;
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(246, 246, 212);
+    text-align: center;
+    margin-top: auto;
+}
+
+h3{
+    font-size: 30px;
+    font-family: monospace;
+    color:rgb(220, 138, 97) ;
+    text-align: left;
+    margin-left: 25px;
+}
+h4{
+    font-size: 15px;
+    font-family: monospace;
+    color:rgb(0, 0, 0);
+    text-align: left;
+    margin-left: 25px;
+}
+
+p, ol{
+  font-size: medium;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    text-align: left;  
+    margin-left: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
+
+ul{
+  font-size: medium;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    text-align: center;  
+    display: inline-table;
 }
 
 #container1{
-   background-color: azure;
-   text-align: center;
+   background-color: rgb(216, 231, 231);
+   text-align: left;
+   text-emphasis-color:rgb(220, 138, 97) ;
+   border-radius: 20px;
+   margin-top: 20px;
+   margin-bottom: 20px;
 }
 #container2{
-   background-color: rgb(169, 180, 196);
-   text-align: right;
+   background-color: rgb(216, 231, 231);
+   text-align:left;
+   border-radius: 20px;
 }
+#container3{
+   background-color: rgb(216, 231, 231);
+   text-align:left;
+   border-radius: 20px;
+}
+#container3{
+   background-color: rgb(216, 231, 231);
+   text-align:left;
+   border-radius: 20px;
+}
+#container4{
+   background-color: rgb(216, 231, 231);
+   text-align:left;
+   border-radius: 20px;
+}
+#container5{
+   background-color: rgb(216, 231, 231);
+   text-align:left;
+   border-radius: 20px;
+}
+
